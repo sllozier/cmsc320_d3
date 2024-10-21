@@ -1,0 +1,47 @@
+{
+	"products": [
+	{
+	  "name": "Fresh Eggs",
+	  "price": 3.50,
+	  "quantity": 100,
+	  "category": "Poultry",
+	  "supplierId": 1
+	},
+	{
+	  "name": "Goat Cheese",
+	  "price": 6.00,
+	  "quantity": 50,
+	  "category": "Dairy",
+	  "supplierId": 2
+	},
+	{
+	  "name": "Goat Milk Soap",
+	  "price": 4.00,
+	  "quantity": 75,
+	  "category": "Personal Care",
+	  "supplierId": 2
+	},
+	{
+	  "name": "Alpaca Wool",
+	  "price": 12.00,
+	  "quantity": 30,
+	  "category": "Textile",
+	  "supplierId": 3
+	},
+	{
+	  "name": "Organic Veggies",
+	  "price": 2.50,
+	  "quantity": 200,
+	  "category": "Produce",
+	  "supplierId": 1
+	},
+	{
+	  "name": "Seasonal Jams",
+	  "price": 5.00,
+	  "quantity": 60,
+	  "category": "Preserves",
+	  "supplierId": 4
+	}
+  ]
+}
+  

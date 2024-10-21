@@ -1,0 +1,34 @@
+{
+	"resources": [
+		{
+			"type": "Goat Feed",
+			"quantity": 100,
+			"unit": "kg",
+			"price": 50,
+			"supplierId": 5
+		},
+		{
+			"type": "Alpaca Bedding",
+			"quantity": 50,
+			"unit": "bales",
+			"price": 75,
+			"supplierId": 6
+		},
+		{
+			"type": "Chicken Coop Supplies",
+			"quantity": 40,
+			"unit": "pieces",
+			"price": 120,
+			"supplierId": 7
+		},
+		{
+			"type": "Organic Fertilizer",
+			"quantity": 200,
+			"unit": "kg",
+			"price": 30,
+			"supplierId": 8
+		}
+	]
+}
+
+  
